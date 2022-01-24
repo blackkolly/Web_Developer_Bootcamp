@@ -4,3 +4,9 @@ h1 {
     text-decoration: underline;
     background-color: gold;
 }
+.rex{
+    color: purple;
+    font-weight: 700;
+    font-size: 25;
+    border: 5px solid orange;
+}
